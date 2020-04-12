@@ -1,0 +1,14 @@
+{
+    "name": "podbase-theme-mercury",
+    "version": "1.0.0",
+    "main": "gatsby-config.js",
+    "license": "MIT",
+    "peerDependencies": {
+        "gatsby": "^2.20.18",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "dependencies": {
+        "gatsby-plugin-page-creator": "^2.2.1"
+    }
+}
