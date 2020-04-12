@@ -9,8 +9,10 @@
     },
     "dependencies": {
         "gatsby": "^2.20.18",
+        "gatsby-source-rss-feed": "^1.1.1",
+        "podbase-theme-mercury": "1.0.0",
+        "prettier": "^2.0.4",
         "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "podbase-theme-mercury": "1.0.0"
+        "react-dom": "^16.13.1"
     }
 }
